@@ -1,0 +1,8 @@
+Mon Aug 27 22:22:24 CDT 2018
+ubuntu
+  PID TTY          TIME CMD
+ 3340 pts/1    00:00:00 bash
+ 3388 pts/1    00:00:00 a.out
+ 3393 pts/1    00:00:00 sh
+ 3394 pts/1    00:00:00 ps
+28	.
